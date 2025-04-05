@@ -15,11 +15,6 @@ Soy Rosana Vasquez, profesional con más de 15 años de experiencia en la indust
 - Habilidades técnicas y blandas.
 - Idiomas y enlaces a mis redes profesionales.
 
-## 🌟 Enlace directo al CV
-
-👉 [Ver CV online](https://rosanavanesavasquez.github.io/CV/)
-
-
 ## 📂 Repositorios destacados
 
 - 🎮 [Análisis de Ventas de Videojuegos](https://github.com/rosanavanesavasquez/VideoGamesSales)
