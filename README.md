@@ -53,6 +53,7 @@ Soy Rosana Vasquez, profesional con más de 15 años de experiencia en la indust
 - 🧠 [Ciencia de Datos sobre Suicidio](https://github.com/rosanavanesavasquez/Suicide_rates_Overview)
 - 🛍️ [Análisis de Retail]()
 - 🛍️ [App ](https://github.com/rosanavanesavasquez/TaskMaster)
+- 🎮 [Tableau ]https://public.tableau.com/app/profile/rosana.vasquez/viz/EntregaFinalVasquezRosana_17_04/Zafran
 
 ---
 
