@@ -57,7 +57,7 @@ Soy Rosana Vasquez, profesional con más de 15 años de experiencia en la indust
 
 ## 📑 Certificados Coderhouse
 
-- ✅ [Data Analytics]
+- ✅ [Tableau]
 - https://pub.coderhouse.com/legacy-certificates/6446cd9238c7f400023cefe2?lang=es
 
 ---
