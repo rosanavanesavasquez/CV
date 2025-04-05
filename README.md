@@ -17,7 +17,8 @@ Soy Rosana Vasquez, profesional con más de 15 años de experiencia en la indust
 
 ## 🌟 Enlace directo al CV
 
-👉 [Ver CV online](https://rosanavanesavasquez.github.io)
+👉 [Ver CV online](https://rosanavanesavasquez.github.io/CV/)
+
 
 ## 📂 Repositorios destacados
 
