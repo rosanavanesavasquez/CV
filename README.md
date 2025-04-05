@@ -54,6 +54,7 @@ Soy Rosana Vasquez, profesional con más de 15 años de experiencia en la indust
 - 🛍️ [Análisis de Retail]()
 - 🛍️ [App ](https://github.com/rosanavanesavasquez/TaskMaster)
 - 🎮 [Tableau ]https://public.tableau.com/app/profile/rosana.vasquez/viz/EntregaFinalVasquezRosana_17_04/Zafran
+- https://pub.coderhouse.com/legacy-certificates/6446cd9238c7f400023cefe2?lang=es
 
 ---
 
