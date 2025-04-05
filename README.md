@@ -57,11 +57,8 @@ Soy Rosana Vasquez, profesional con más de 15 años de experiencia en la indust
 
 ## 📑 Certificados Coderhouse
 
-- ✅ [Data Analytics](https://pub.coderhouse.com/legacy-certificates/6446cd9238c7f400023cefe2?lang=es)
-- ✅ [SQL para Análisis de Datos](https://pub.coderhouse.com/legacy-certificates/663b8357bccd55cc9a49ef7b?lang=es)
-- ✅ [Power BI](https://pub.coderhouse.com/legacy-certificates/663b8357bccd55cc9a49ef7b?lang=es)
-- ✅ [Python para Data Science](https://pub.coderhouse.com/legacy-certificates/64a70db0f9ad8e0002e2e407?lang=es)
-- ✅ [Machine Learning](https://pub.coderhouse.com/legacy-certificates/672e2db13f7c22f8e03e20c5?lang=es)
+- ✅ [Data Analytics]
+- https://pub.coderhouse.com/legacy-certificates/6446cd9238c7f400023cefe2?lang=es
 
 ---
 
