@@ -34,7 +34,7 @@ Soy Rosana Vasquez, profesional con más de 15 años de experiencia en la indust
 - **Postgrado en Gestión de Proyectos Intensivos**  
   Pontificia Universidad Católica Argentina – Año 2013
 
-- **Ingeniería Industrial (en curso)**  
+- **Ingeniería Industrial (incompleto)**  
   Universidad Tecnológica Nacional – Desde 2007
 
 ---
