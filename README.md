@@ -42,8 +42,8 @@ Soy Rosana Vasquez, profesional con más de 15 años de experiencia en la indust
 ## 🛠️ Habilidades
 
 **Herramientas:** Power BI · Google Data Studio · Tableau · Excel · SQL · Python  
-**Idiomas:** Español (nativo), Inglés (intermedio), Portugués (básico)  
-**Competencias:** Comunicación efectiva · Liderazgo · Lean Manufacturing · Six Sigma
+**Idiomas:** Español (nativo), Inglés (avanzado), Portugués (básico)  
+**Competencias:** Comunicación efectiva · Liderazgo · Lean Manufacturing · Six Sigma - Analista de Datos - Cientifico de Datos 
 
 ---
 
