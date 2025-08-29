@@ -73,7 +73,7 @@ Soy Rosana Vasquez, profesional con más de 15 años de experiencia en la indust
 
 ## 🌟 Enlace directo a LinkedIn 
 
-👉 - 🔗 [LinkedIn](https://https://www.linkedin.com/in/rosana-vanesa-v%C3%A1squez-4a56b940/)  
+👉 - 🔗 [https://www.linkedin.com/in/rosana-vanesa-v%C3%A1squez-4a56b940/?originalSubdomain=ar)  
 
 ---
 
