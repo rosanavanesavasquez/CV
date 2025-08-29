@@ -55,7 +55,7 @@ Soy Rosana Vasquez, profesional con más de 15 años de experiencia en la indust
 - 🛍️ [App ](https://github.com/rosanavanesavasquez/TaskMaster)
 - 🎮 [Tableau ]https://public.tableau.com/app/profile/rosana.vasquez/viz/EntregaFinalVasquezRosana_17_04/Zafran
 
-## 📑 Certificados Coderhouse
+## 📑 Certificados Cursos
 
 - ✅ [Tableau]
 - https://pub.coderhouse.com/legacy-certificates/6446cd9238c7f400023cefe2?lang=es
